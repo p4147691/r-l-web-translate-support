@@ -16,6 +16,7 @@ R+L Web Translate translates visible text on the webpage currently viewed by the
 - The extension does not transmit webpage text or translation results to the developer or to a third-party translation server.
 - The extension contains no advertising, analytics tracking, or remotely executed code.
 - Translation model availability, download, and execution are managed by Google Chrome.
+- Website content is used only for the translation and original-text restoration feature described above. It is not used for advertising, profiling, or any unrelated purpose.
 
 ## Retention
 
